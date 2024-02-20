@@ -1,2 +1,30 @@
-
 /* Your CSS Code here. */
+#holder{
+	width:100vw;
+	height:200px;
+	font-size:40px;
+	display:flex;
+	justify-content:space-evenly;
+	background-color:ghostwhite;
+	flex-wrap:wrap;
+}
+.eg1{
+	width:100px;
+	height:100px;
+	background-color:red
+}
+.eg2{
+	width:100px;
+	height:100px;
+	background-color:deeppink
+}
+.eg3{
+	width:100px;
+	height:100px;
+	background-color:blueviolet
+}
+.eg4{
+	width:100px;
+	height:100px;
+	background-color:greenyellow
+}
